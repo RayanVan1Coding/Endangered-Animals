@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(skyblue,pink,lightgreen);
+}
+#g{
+    font-family: 'Bebas Neue', cursive;  
+}
+#mar{
+    font-family: 'Bebas Neue', cursive;
+    background-color: blueviolet;
+    font-size: 25px;  
+}
+#sa{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    color: white;
+}
+.line{
+    background-color: black;
+    width: 200px;
+    height: 8px;
+    margin: 8px;
+}
+.fine{
+    background-color: black;
+    width: 130px;
+    height: 8px;
+    margin: 8px;
+}
+#ta{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    color: white;
+}
+#pa{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    color: black;
+}
+h6{
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+}
+.animal_all{
+	cursor: pointer;
+}
+.animal_all hr{
+	margin-bottom: 10px;
+}
+#animal_name{
+    font-size: 20px;
+}
+.model-content{
+	margin-top: 100px;
+}
+.img_modal{
+	display: inline-block;
+}
+.p_modal{
+	margin-top: 10px;
+}
+.modal-body{
+	text-align: center;
+}
+#animals_endangered_images{
+    border: 15px;
+    border-style: ridge;
+    border-color: brown;
+    
+}
