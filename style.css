@@ -52,6 +52,7 @@ h6{
 }
 .model-content{
 	margin-top: 100px;
+    background-image:linear-gradient(skyblue,pink,lightgreen);
 }
 .img_modal{
 	display: inline-block;
@@ -61,10 +62,14 @@ h6{
 }
 .modal-body{
 	text-align: center;
+    background-image:linear-gradient(skyblue,pink,lightgreen);
 }
 #animals_endangered_images{
     border: 15px;
     border-style: ridge;
     border-color: brown;
     
+}
+.modal-header{
+    background-image:linear-gradient(lightgreen,pink,skyblue); 
 }
